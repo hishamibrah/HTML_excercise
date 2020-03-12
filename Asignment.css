@@ -1,0 +1,37 @@
+label,input{
+    display: inline-block;
+}
+label{
+    width: 100px;
+}
+table,th,td{
+    border: 1px solid white;
+}
+form{
+    color: white;
+    height: 267px;
+    background-position: center;
+    background-size: 100%;
+    background-image: url(images/settlin.svg);
+}
+.align{
+    max-width: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+.date{
+    width:176px;
+}
+.tab{
+    margin-top: 70px;
+    color: white;
+}
+.background {
+    background-color: #314a75;   
+}
+.container {
+    display: flex;
+}
+.item {
+    order: 3;
+  }
